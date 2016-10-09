@@ -27,3 +27,8 @@ Lenguajes, entornos (editores vs. IDEs). Ejemplos.
 - Interpretado + compilado
 
 [tiempo previsto: xx min]
+
+
+* Bibliografía
+
+- https://griffsgraphs.wordpress.com/2012/07/01/programming-languages-influences/
