@@ -1,4 +1,4 @@
-* Curso de Introducción a la programación en Java - 2016/2017
+* Introducción a la programación en Java - 2016/2017
 
 * Día 1 - Presentación
 ** Criterios del curso
