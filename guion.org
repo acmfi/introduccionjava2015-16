@@ -1,6 +1,6 @@
 #+TITLE: Guión charla Java curso 16-17
 
-* Presentación
+* Día 1 - Presentación
 ** Criterios del curso
 - Para quién
 - Teoría/práctica
@@ -20,15 +20,38 @@ Breve descripción de las utilidades de la programación, conduciendo a los para
 - Lógico
 - Diferencias. Pequeño pros y contras.
 ** Cómo programar
-Lenguajes, entornos (editores vs. IDEs). Ejemplos.
+   Lenguajes, entornos (editores vs. IDEs). Ejemplos.
 ** Tipos de lenguajes
 - Interpretado
 - Compilado
 - Interpretado + compilado
 
 [tiempo previsto: xx min]
+** Entorno
+** Plantilla
+#+BEGIN_SRC java
 
+public class IntroProg {
+  public static void main(String args[]) {
+    System.out.println("Hola, mundo!");
+  }
+}
 
+#+END_SRC
+** Datos Básicos
+** Operaciones Básicas
+** Variables
+** Condicionales
+** Bucles
+*** While
+** Funciones
+* Día 2
+** Índice
+** Operadores
+** Bucles for
+** Arrays
+** Clases
+** Objetos
 * Bibliografía
 
 - https://griffsgraphs.wordpress.com/2012/07/01/programming-languages-influences/
