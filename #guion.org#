@@ -1,0 +1,29 @@
+#+TITLE: Guión charla Java curso 16-17
+
+* Presentación
+** Criterios del curso
+- Para quién
+- Teoría/práctica
+- Lenguaje
+** Objetivos del primer día
+- Visión general
+- Instalación de herramientas
+- Programas de ejemplo
+** ¿Qué es la programación? 
+   Breve descripción de las utilidades de la programación, conduciendo a los paradigmas
+** Paradigmas 
+[[http://zoom.it/6rJp][Zoom Paradigmas - Lenguajes]]
+[[./img/programming-paradigms_label2.png]]
+- *Imperativo*
+- *OOP*
+- Funcional
+- Lógico
+- Diferencias. Pequeño pros y contras.
+** Cómo programar
+Lenguajes, entornos (editores vs. IDEs). Ejemplos.
+** Tipos de lenguajes
+- Interpretado
+- Compilado
+- Interpretado + compilado
+
+[tiempo previsto: xx min]
