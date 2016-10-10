@@ -1,0 +1,45 @@
+* Curso de Introducción a la programación en Java - 2016/2017
+
+* Día 1 - Presentación
+** Criterios del curso
+- Para quién
+- Teoría/práctica
+- Lenguaje
+** Objetivos del primer día
+- Visión general
+- Instalación de herramientas
+- Programas de ejemplo
+** ¿Qué es la programación? 
+** Paradigmas 
+[[http://zoom.it/6rJp][Zoom Paradigmas - Lenguajes]]
+[[./img/programming-paradigms_label2.png]]
+- *Imperativo*
+- *OOP*
+- Funcional
+- Lógico
+- Diferencias. Pequeño pros y contras.
+** Cómo programar
+   Lenguajes, entornos (editores vs. IDEs). Ejemplos.
+** Tipos de lenguajes
+- Interpretado
+- Compilado
+- Interpretado + compilado
+
+[tiempo previsto: xx min]
+** Plantilla
+#+BEGIN_SRC java
+
+public class IntroProg {
+  public static void main(String args[]) {
+    System.out.println("Hola, mundo!");
+  }
+}
+
+#+END_SRC
+** Datos Básicos
+** Operaciones Básicas
+** Variables
+** Condicionales
+** Bucles
+*** While
+** Funciones
