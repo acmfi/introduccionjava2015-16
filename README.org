@@ -1,5 +1,6 @@
 * Introducción a la programación en Java - 2016/2017
-
+- [[#día-1---presentación][Día 1 - Presentación]]
+- [[#día-2][Día 2]]
 * Día 1 - Presentación
 ** Criterios del curso
 - Para quién
@@ -43,3 +44,10 @@ public class IntroProg {
 ** Bucles
 *** While
 ** Funciones
+* Día 2
+** Operadores
+** Bucles
+*** For
+** Arrays
+** Clases
+** Objetos
